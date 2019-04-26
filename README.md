@@ -6,7 +6,7 @@ Liri is like SIRI but instead it interprets Language. Liri is a command line nod
 
 ### What Liri Looks like to start off: 
 
-  ![Start](images/start.png)
+  ![Start](images/Start.png)
 
 Use the down arror key to select which thing you would like to do.
 
